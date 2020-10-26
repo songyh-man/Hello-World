@@ -28,6 +28,7 @@ int main(void)
 
 void _exit(int status)
 {
+	return;
 }
 
 
